@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Retro-Coyote
+- 👋 Hi, I’m Ryan
 - 👀 I’m interested in learning programing to create games and digital pets like Tamagotchi and Digimon
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
